@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.AssemblyInfo.cs
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\bin\Debug\netcoreapp3.1\StringLenght.exe
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\bin\Debug\netcoreapp3.1\StringLenght.deps.json
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\bin\Debug\netcoreapp3.1\StringLenght.runtimeconfig.json
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\bin\Debug\netcoreapp3.1\StringLenght.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\bin\Debug\netcoreapp3.1\StringLenght.dll
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\bin\Debug\netcoreapp3.1\StringLenght.pdb
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.dll
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.pdb
+C:\Users\opilane\source\repos\StringsForLoops\StringLenght'\obj\Debug\netcoreapp3.1\StringLenght.genruntimeconfig.cache
